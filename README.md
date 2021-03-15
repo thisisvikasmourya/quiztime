@@ -1,4 +1,4 @@
-## triViaXZ | Trivia Game Web App
+quiz-time | Trivia API
 
 A trivia game web app with MERN Stack that allows a user to answer true or false and multiple-choice questions and login as guest or create an account to save scores.
 
@@ -33,5 +33,5 @@ Also on /server/config, create `config.env`:
 
 Key  | Example Value
 ------------- | -------------
-MONGODB_URI_LOCAL  | mongodb://127.0.0.1:27017/trivia-quiz
+MONGODB_URI_LOCAL  | mongodb://127.0.0.1:27017/quiztimeDB
 JWT_SECRET_KEY | yoursecretkey
